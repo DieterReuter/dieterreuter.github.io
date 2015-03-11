@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://yourSiteHere/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Dieter&#39;s Blog</title>
+    <link>https://dieterreuter.github.io/posts/</link>
+    <description>Recent content in Posts on Dieter&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2015 17:26:42 +0100</lastBuildDate>
-    <atom:link href="http://yourSiteHere/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dieterreuter.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>http://yoursitehere/posts/first/</link>
+      <link>https://dieterreuter.github.io/posts/first/</link>
       <pubDate>Wed, 11 Mar 2015 17:26:42 +0100</pubDate>
       
-      <guid>http://yoursitehere/posts/first/</guid>
+      <guid>https://dieterreuter.github.io/posts/first/</guid>
       <description></description>
     </item>
     
