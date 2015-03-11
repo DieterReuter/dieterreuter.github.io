@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://yourSiteHere/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://yourSiteHere/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2015 17:26:42 +0100</lastBuildDate>
-    <atom:link href="http://yourSiteHere/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://yourSiteHere/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
@@ -15,15 +15,6 @@
       <pubDate>Wed, 11 Mar 2015 17:26:42 +0100</pubDate>
       
       <guid>http://yoursitehere/posts/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://yoursitehere/about/</link>
-      <pubDate>Wed, 11 Mar 2015 17:26:06 +0100</pubDate>
-      
-      <guid>http://yoursitehere/about/</guid>
       <description></description>
     </item>
     
